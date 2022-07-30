@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22724182094",
+    "project_id": "flutter-travels",
+    "storage_bucket": "flutter-travels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22724182094:android:6a6aa49c8fa02bdbf8c31f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_travel_budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22724182094-018r4qhslls5fm76hgol4hjh2oum75hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CVybODqorq2s4kZvZFNUzMSATfKJ6no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22724182094-018r4qhslls5fm76hgol4hjh2oum75hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
